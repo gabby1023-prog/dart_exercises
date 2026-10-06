@@ -1,0 +1,9 @@
+Student name: Diamante
+Number of items: 3
+Price per item: $40.50
+Is the person a student? true
+Total price: $121.50
+Does the student qualify for a discount? true
+Number of groups of two items: 1
+Remaining items: 1
+Did the student buy more than one item? true
